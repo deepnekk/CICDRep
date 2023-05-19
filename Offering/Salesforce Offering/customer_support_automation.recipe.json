@@ -1,0 +1,24 @@
+{
+  "name": "Customer Support Automation",
+  "description": "When there is a trigger event, do action",
+  "version": 1,
+  "private": true,
+  "concurrency": 1,
+  "code": {
+    "number": 0,
+    "keyword": "trigger",
+    "dynamicPickListSelection": {
+    },
+    "toggleCfg": {
+    },
+    "input": {
+    },
+    "block": [
+
+    ],
+    "uuid": "38505d62-f430-4517-ab30-f8660c841135"
+  },
+  "config": [
+
+  ]
+}
